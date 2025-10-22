@@ -11,9 +11,10 @@ This project showcases the **complete Business Analysis lifecycle** and **data-d
 ---
 
 ## Methodologies Covered
+- **Innovative Framework:** Business model , market strategy, and revenue forecast insights.
 - **Agile Approach:** Adile Documentation,User stories,Supporting Models, Jira screenshots, Confluence notes, and user story mapping.  
 - **Waterfall Approach:** BRD,FRD,Supporting Models
-- **Innovative Framework:** Business model , market strategy, and revenue forecast insights.
+
 
 ---
 
