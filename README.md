@@ -40,7 +40,7 @@ Power BI dashboard illustrates:
 02_Agile_Methodology/
 03_Waterfall_Methodology/
 04_PowerBI_Dashboard/
-05_Extras/
+05_Google Drive – Shadesync Project Documents/
 
 ---
 
@@ -56,12 +56,12 @@ Power BI dashboard illustrates:
 ---
 
 
-## 📁 Project Resources Folder
+## Project Resources Folder
 
 All project-related documents, business reports, and deployment files for the **Shadesync Project** are organized in a dedicated Google Drive folder.  
 You can access them directly here:
 
-👉 [**Access Shadesync Project Documents (Google Drive Folder)**](https://drive.google.com/drive/folders/1KWRcrnpz1oF2C-LnA-lYeFs-h_1yDJ4r?usp=sharing)
+[**Access Shadesync Project Documents (Google Drive Folder)**](https://drive.google.com/drive/folders/1KWRcrnpz1oF2C-LnA-lYeFs-h_1yDJ4r?usp=sharing)
 
 ---
 
