@@ -40,7 +40,7 @@ Power BI dashboard illustrates:
 02_Agile_Methodology/
 03_Waterfall_Methodology/
 04_PowerBI_Dashboard/
-05_Google Drive – Shadesync Project Documents/
+05_Extras/
 
 ---
 
