@@ -53,12 +53,13 @@ The attached PDF, *“Proposed Business Model & Innovation Roadmap”*, covers t
 ---
 
 ## 🖼️ Framework Snapshot
-
 Below is a glimpse from the Innovation Canvas and Concept Diagram:
+
 <img width="405" height="508" alt="image" src="https://github.com/user-attachments/assets/f2c9fcf7-4c6a-47d7-b6bd-5c90a75aa767" />
 <img width="409" height="511" alt="image" src="https://github.com/user-attachments/assets/4ad13694-8214-4615-8494-c4fc417297b4" />
 <img width="402" height="479" alt="image" src="https://github.com/user-attachments/assets/1a76f9a4-12b7-4fe0-a371-0e103979a08c" />
 <img width="408" height="512" alt="image" src="https://github.com/user-attachments/assets/fa0229fd-e7a1-4f5f-bb6b-67b8664462e6" />
+
 *(Full version available in the attached PDF)*
 
 ---
