@@ -39,14 +39,18 @@ This folder contains the following three key documents:
 
 ---
 
-## 📸 Supporting Models & Screenshots
+## 📸 Supporting Model Screenshots and links
+-Access via Google Drive For Clear View:  
+👉 [Open in Google Drive](https://drive.google.com/file/d/1Mzhd_Ez_7bH-6cSHYB5b1THvWMHksNsq/view?usp=sharing)
 
-This folder also includes:
-- **Process Flow Diagrams (BPMN / Flowcharts)**  
-- **Use Case Diagrams & ER Diagrams**  
-- **Screen Mockups & Wireframes**  
-- **Confluence Page References (Documentation Links)**  
-  
+sample screenshots --kindly open the Google drive link for better view of Supporting Models
+
+
+ <img width="772" height="493" alt="image" src="https://github.com/user-attachments/assets/680f9544-e286-4069-a74c-8edab37b2021" />
+ <img width="705" height="468" alt="image" src="https://github.com/user-attachments/assets/b1f78737-467d-4643-b35a-c77536ff8477" />
+ <img width="1062" height="508" alt="image" src="https://github.com/user-attachments/assets/81868633-24d7-478c-99e5-e552b59cde31" />
+ <img width="817" height="478" alt="image" src="https://github.com/user-attachments/assets/0093c2c5-434b-4a00-a3db-93cad33fb45d" />
+
 
 
 
