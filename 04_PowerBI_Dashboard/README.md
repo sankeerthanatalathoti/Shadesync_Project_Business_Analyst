@@ -100,7 +100,7 @@ The dashboard includes two key analytical pages:
 
 ## 📂 File Access
 
-- [ShadeSync_Financial_Analysis.pbix](./ShadeSync_Financial_Analysis.pbix)  
+- [ShadeSync_Financial_Analysis.pbix](./Shadesync_Project_PowerBI_Dashboard_Financial_Analysis.pbix)  
   *(If file is too large, download via Google Drive link below)*
 
 👉 [Open Power BI Dashboard on Google Drive](https://drive.google.com/file/d/16Oc-zeurHs72w9rSqIWRF_PvXQlu2PD_/view?usp=sharing)
