@@ -5,8 +5,17 @@
 ---
 
 ## Project Overview
-SharedSync is an innovative beauty-tech framework designed to enhance customer engagement by offering **personalized cosmetic trial sessions** through certified agents.  
-This project showcases the **complete Business Analysis lifecycle** and **data-driven revenue validation** using Power BI.
+ShadeSync: A Strategic Framework for Personalized, Expert-Guided Makeup Trial Sessions Driving Customer Adoption and Sales Growth in Cosmetics Retail Marketing.
+
+-ShadeSync is an in-store experiential analytics initiative designed to transform cosmetics retail engagement through personalized, expert-led trial sessions. By integrating certified beauty professionals into the customer journey, the framework enables real-time shade-matching, product education, and guided decision-making—bridging the gap between digital product discovery and offline brand immersion.
+-This strategic pilot addresses key business challenges faced by cosmetics retailers 
+-ShadeSync’s solution enhances customer experience through real-time trial bookings, personalized recommendations, and data-driven insights—driving higher conversion, retention, and brand affinity.
+
+Key Highlights:
+	• The project aims to develop a **mobile booking and engagement platform** for cosmetic trial sessions.
+	• Customers can schedule personalized beauty trials at certified partner stores through the application.
+The platform connects customers with professional agents who conduct in-store sessions tailored to individual skin types and preferences
+
 
 ---
 
@@ -46,6 +55,18 @@ Power BI dashboard illustrates:
 
 ---
 
+
+## 📁 Project Resources Folder
+
+All project-related documents, business reports, and deployment files for the **Shadesync Project** are organized in a dedicated Google Drive folder.  
+You can access them directly here:
+
+👉 [**Access Shadesync Project Documents (Google Drive Folder)**](https://drive.google.com/drive/folders/1KWRcrnpz1oF2C-LnA-lYeFs-h_1yDJ4r?usp=sharing)
+
+---
+
+
 ## Connect
 **LinkedIn:** [www.linkedin.com/in/satya-sankeerthana-talathoti-318464339]  
 **Email:** [talathotisankeerthana@gmail.com]
+
