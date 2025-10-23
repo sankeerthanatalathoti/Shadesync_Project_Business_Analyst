@@ -8,7 +8,9 @@
 ShadeSync: A Strategic Framework for Personalized, Expert-Guided Makeup Trial Sessions Driving Customer Adoption and Sales Growth in Cosmetics Retail Marketing.
 
 -ShadeSync is an in-store experiential analytics initiative designed to transform cosmetics retail engagement through personalized, expert-led trial sessions. By integrating certified beauty professionals into the customer journey, the framework enables real-time shade-matching, product education, and guided decision-making—bridging the gap between digital product discovery and offline brand immersion.
--This strategic pilot addresses key business challenges faced by cosmetics retailers 
+
+-This strategic pilot addresses key business challenges faced by cosmetics retailers.
+
 -ShadeSync’s solution enhances customer experience through real-time trial bookings, personalized recommendations, and data-driven insights—driving higher conversion, retention, and brand affinity.
 
 Key Highlights:
