@@ -67,7 +67,7 @@ Below is a glimpse from the Innovation Canvas and Concept Diagram:
 ## 📂 Access Full Document
 
 Explore the complete framework and detailed visuals here:  
-👉 [View Innovative Framework (PDF)](01_Innovative_Framework/Canvas Shadesync Project.pdf)
+👉 [📄 Click here to open the Canvas Shadesync Project PDF](./Canvas%20Shadesync%20Project.pdf)
 
 Or access it via Google Drive:  
 👉 [Open in Google Drive](https://drive.google.com/file/d/1VxZrk1Pw31sx6ldwaVRJusmSaGKCPlUp/view?usp=sharing)
