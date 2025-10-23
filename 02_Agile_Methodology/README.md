@@ -89,7 +89,7 @@ This folder also includes **Jira screenshots** highlighting the Agile execution 
 ## 📂 Access Full Agile Document
 
 Explore the complete Agile framework and detailed visuals here:  
-👉 [View Agile Documentation (PDF)](
+👉 [View Agile Documentation (PDF)](Agile_Documentation_Shadesync.pdf)
 
 Or access via Google Drive:  
 👉 [Open in Google Drive](https://drive.google.com/file/d/12q5_KCfjm0bagyrjzQ_3YbQy6ZToru3I/view?usp=sharing)
