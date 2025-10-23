@@ -60,9 +60,10 @@ sample screenshots --kindly open the Google drive link for better view of Suppor
 
 View or download the full Waterfall documentation set here:
 
-- [Waterfall Project Overview (PDF)](./Waterfall_Project_Overview.pdf)  
-- [Waterfall BRD – Shadesync (PDF)](./Waterfall_BRD_Shared_Sink.pdf)  
-- [Waterfall FRD – Shadesync (PDF)](./Waterfall_FRD_Shared_Sink.pdf)
+- [Waterfall Project Overview (PDF)](./Waterfall_ProjectOverview_Document.pdf)  
+- [Waterfall BRD – Shadesync (PDF)](./Waterfall_BRD_Shadesync.pdf)  
+- [Waterfall FRD – Shadesync (PDF)](./Waterfall_FRD_Shadesync.pdf)
+
 
 Or access via Google Drive:  
 👉 [Open Waterfall Documents on Google Drive](https://drive.google.com/file/d/12q5_KCfjm0bagyrjzQ_3YbQy6ZToru3I/view?usp=sharing)
