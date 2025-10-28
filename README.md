@@ -1,4 +1,4 @@
-# SharedSync_Project_Business_Analyst
+# Business Development & Business Analyst  – SharedSync Project
 
 **End-to-end Business & Data Analyst case study** for the **SharedSync** cosmetic trial booking framework — featuring Agile & Waterfall BA documentation and a **Power BI revenue-forecast dashboard** validating monthly and projected earnings from the innovative business model.
 
